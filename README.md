@@ -1,11 +1,5 @@
-### Hi there 👋
-
-<!--
-**jurisch07/jurisch07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ - ola, meu nome é ewellyn jurisch
+- gosto de jogar futebol
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
